@@ -16,3 +16,5 @@ for _ in range(n):
 for _ in range(howmany):
     url = input()
     print(findPassword[url])
+
+    ### 이 코드는 사이트 주소를 기준으로 비밀번호를 빠르게 찾는 딕셔너리 기반 예제입니다.
