@@ -71,7 +71,7 @@
 
 ### Run (기본 실행)
 ```bash
-python week01/max_value.py
+python week01/atoi.py
 ```
 
 ### Python Version
