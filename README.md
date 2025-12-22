@@ -15,9 +15,7 @@
 
 ---
 
-## 🗂️ Recommended Structure (예시)
-
-> 현재 구조가 다르더라도, 아래처럼 정리하면 찾아보기 편해요.
+## 🗂️ Recommended Structure
 
 ```
 .
