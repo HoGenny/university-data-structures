@@ -15,21 +15,23 @@
 
 ---
 
-## 🗂️ Recommended Structure
+## 🗂️ Structure
 
 ```
 .
-├── week01/
-│   ├── atoi.py
-│   ├── find_max_index.py
+├── src/
+│   ├── week01/
+│   │   ├── atoi.py
+│   │   ├── find_max_index.py
+│   │   ├── ...
+│   │   └── README.md
+│   ├── week02/
 │   ├── ...
-│   └── README.md
-├── week02/
-├── ...
+│   └── week14/
 └── README.md
 ```
 
-- `weekXX/README.md`: 해당 주차 핵심 개념 + 실행 방법 + 예제
+- `src/weekXX/README.md`: 해당 주차 핵심 개념 + 실행 방법 + 예제 (8주차는 중간고사라 폴더 없음)
 - 파일명은 동작/문제를 바로 떠올릴 수 있게 간단히
 
 ---
@@ -69,7 +71,7 @@
 
 ### Run (기본 실행)
 ```bash
-python week01/atoi.py
+python src/week01/atoi.py
 ```
 
 ### Python Version
